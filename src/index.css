@@ -1,0 +1,18 @@
+.cdx-numbering {
+    display: flex;
+}
+
+.cdx-numbering__number {
+    width: 45px;
+    height: 45px;
+    margin-right: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cdx-numbering__text {
+    width: 85%;
+    font-weight: bold;
+}
