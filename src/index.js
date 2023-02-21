@@ -33,7 +33,7 @@ export default class Numbering {
   static get toolbox() {
     return {
       icon: ToolboxIcon,
-      title: 'Нумерация'
+      title: 'Numbering'
     };
   }
 
